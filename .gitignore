@@ -1,0 +1,26 @@
+.idea
+.metadata
+bin/
+.settings/
+.loadpath
+.recommenders
+
+.project
+.classpath
+
+.target
+.tern-project
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+### SVN template
+.svn/
+*.iml
+target
+overlays
